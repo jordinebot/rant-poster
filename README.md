@@ -1,6 +1,6 @@
 # Rant Poster
 
-## About DevRant
+## About devRant
 [devRant](https://www.devrant.io/) is an amazing growing community of fellow Developers to talk about programming and swearing to projects, bosses, clients, coworkers, interns... If you're a developer and you didn't know about devRant, please make yourself a favor and go get it.
 
 ## The poster
